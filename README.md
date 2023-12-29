@@ -1,4 +1,4 @@
-# 💫 ¡Hola! Me llamo Pablo Veiga 👋
+# 💫 Hola, mi nombre es Pablo Veiga 👋
 ### Desarrollador Backend Junior
 Un entusiasta desarrollador backend junior con experiencia en tecnologías clave. Aquí hay un vistazo rápido a mi perfil:
 
