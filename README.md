@@ -31,6 +31,7 @@ Apasionado por la creación de soluciones robustas, he trabajado en proyectos qu
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pablo_dev_veiga/) 
 
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nwpablodeveloper&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
