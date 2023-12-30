@@ -35,7 +35,7 @@ Apasionado por la creación de soluciones robustas, he trabajado en proyectos qu
 ![](https://github-readme-stats.vercel.app/api?username=nwpablodeveloper&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nwpablodeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=nwpablodeveloper&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 
 
