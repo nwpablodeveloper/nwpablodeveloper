@@ -3,10 +3,6 @@
 #### pabloveiga1988@gmail.com
 Especializado en el desarrollador backend junior con experiencia en tecnologías clave.
 
-### Contacto
-¡Estoy emocionado/a por nuevas oportunidades y colaboraciones!
-pabloveiga1988@gmail.com
-
 ## 💻 Mis conocimientos
 #### 😝 Lenguajes
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
