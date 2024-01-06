@@ -1,13 +1,11 @@
 # 💫 Hola, mi nombre es Pablo Veiga 👋
 ### Desarrollador Backend Junior
-Un entusiasta desarrollador backend junior con experiencia en tecnologías clave. Aquí hay un vistazo rápido a mi perfil:
-  
-### Sobre Mí
-Apasionado por la creación de soluciones robustas, he trabajado en proyectos que combinan lo mejor de la programación backend con tecnologías modernas.
+#### pabloveiga1988@gmail.com
+Especializado en el desarrollador backend junior con experiencia en tecnologías clave.
 
 ### Contacto
-¡Estoy emocionado/a por nuevas oportunidades y colaboraciones! Conéctate conmigo en 📬 nwpablodeveloper@gmail.com.
-¡Gracias por visitar mi perfil! Espero tener la oportunidad de contribuir a proyectos innovadores contigo.
+¡Estoy emocionado/a por nuevas oportunidades y colaboraciones!
+pabloveiga1988@gmail.com
 
 ## 💻 Mis conocimientos
 #### 😝 Lenguajes
