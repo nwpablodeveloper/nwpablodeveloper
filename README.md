@@ -22,10 +22,11 @@ Especializado en el desarrollador backend junior con experiencia en tecnologías
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
+
+<!--
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pablo_dev_veiga/) 
 
-<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nwpablodeveloper&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
